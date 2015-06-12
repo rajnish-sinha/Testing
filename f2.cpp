@@ -8,4 +8,4 @@ int main()
    cin>>a;
    cout<<a;//Printing value
 return 0;
-}
+}//End of Main
